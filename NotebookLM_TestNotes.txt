@@ -1,0 +1,22 @@
+NotebookLM Evaluation – BUS5001 Assessment 03
+---------------------------------------------
+
+Date: 10 November 2025
+Student: Nista
+
+Steps I did:
+1. Opened https://notebooklm.google and signed in with my Gmail.
+2. Created a new notebook.
+3. Uploaded BUS5CA lecture slides (PDF) and one journal article.
+4. Asked: “Summarise key reasons for customer churn.”
+5. Used the Briefing Doc and Audio Overview to review.
+6. Checked Discover Sources suggestions.
+
+Observations:
+- Summaries were mostly accurate and easy to understand.
+- Missed a few numeric details and examples.
+- Audio overview was helpful for revision.
+- Privacy concern if uploading assignment files.
+
+Conclusion:
+NotebookLM is very useful for summarising study notes and revision, but should be used carefully for academic accuracy.
